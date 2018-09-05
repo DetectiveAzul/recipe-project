@@ -24,8 +24,9 @@
 
 To install a local version of xChess you need first to have installed NPM and MongoDB. 
 
+* Install git: `$ brew install git
 * Install npm: `$ brew install npm`
-* Install mongodb: `$ brew install psql`
+* Install psql: `$ brew install psql`
 * If prompted, install node
 * Download server `$ git clone https://github.com/DetectiveAzul/recipe-server`
 * Go into the folder `$ cd recipe-server`
